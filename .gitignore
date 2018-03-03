@@ -3,3 +3,4 @@ dist/
 /npm-debug.log
 yarn-error.log
 config.toml.bak
+netlify.toml.bak
